@@ -1,0 +1,5 @@
+dockerImageTag = "latest"
+countTasks = "2"
+desiredCapacity = "2"
+namePrefix = "tf-ws2"
+dockerImageTag = "latest"
